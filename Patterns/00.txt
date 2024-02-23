@@ -1,0 +1,5 @@
+Steps to solve any pattern question :-
+
+1. Find the number of Rows.
+2. Find the number of Columns.
+3. What to print ? 
